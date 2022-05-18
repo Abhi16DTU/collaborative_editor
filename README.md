@@ -1,4 +1,6 @@
 # collaborative_editor
 
 
-1 Use cases
+## Use case
+### Multiple users should be able to collab/edit at the same time
+
